@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.altimeter.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.altimeter.app-main-50:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.altimeter.app-merged_res-48:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.altimeter.app-main-50:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.altimeter.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.altimeter.app-main-50:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.altimeter.app-merged_res-48:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.altimeter.app-main-50:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.altimeter.app-merged_res-48:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.altimeter.app-main-50:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

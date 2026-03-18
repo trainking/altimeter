@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.2.0" type="incidents">
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+    <incident
+        id="InvalidFragmentVersionForActivityResult"
+        severity="fatal"
+        message="Upgrade Fragment version to at least 1.3.0.">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*javaDir*0}/com/altimeter/MainActivity.kt"
+            line="26"
+            column="46"
+            startOffset="926"
+            endLine="47"
+            endColumn="6"
+            endOffset="1622"/>
+    </incident>
+
+</incidents>
